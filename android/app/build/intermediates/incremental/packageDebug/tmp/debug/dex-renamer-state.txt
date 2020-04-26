@@ -1,0 +1,4 @@
+#Thu Apr 09 18:03:22 BRT 2020
+base.0=/Users/facholi/Development/workspace/hands-on/gostack/desafios/desafio-04/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
